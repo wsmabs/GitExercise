@@ -2,3 +2,5 @@ Lysozme			chicken LYSC_CHICK 	POO698
 Lysozme			Human	LYSC_HUMAN	P61626
 Hemoblobin-alpha	Human	HBA_HUMAN	P69905
 Hemoblobin-beta		Human	HBB_HUMAN	p68871
+PFKM			Human	PFKAM_HUMAN	P08237
+Pfkm			Mouse	PFKAM_MOUSE	P47857
